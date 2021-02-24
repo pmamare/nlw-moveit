@@ -101,3 +101,8 @@
     filter: brightness(0.9)
 }
 
+@media(max-width: 767px){
+    .challengeActive main{
+        margin: 3rem 0;
+    }
+}
